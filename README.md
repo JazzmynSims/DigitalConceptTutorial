@@ -1,3 +1,3 @@
-# Final Project Title: DigitalConceptTutorial
+# Final Project Title: Digital Concept Tutorial
 # Author: Jazzmyn Sims 
-# This tutorial is a beginners tutorial on how to 
+# Description: This is a tutorial that will show how to work the basics of your iPhone. *Beginner Friendly*
