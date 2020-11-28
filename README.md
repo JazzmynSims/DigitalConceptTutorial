@@ -1,3 +1,4 @@
-# How to work my new iPhone?
-# Author: Jazzmyn Sims 
-# Description: This is a tutorial that will show how to work the basics of your iPhone. *Beginner Friendly*
+# Computer Networks: How Does the Interent Work?
+## Created & Explained by: Jazzmyn Sims 
+#### Purpose of Content: To educate others on how the internet operators.
+### Easy Read for ages 5+
