@@ -29,7 +29,7 @@ From your profile ('Me' in the bottom right corner), you'll click the three dots
 You can control other settings from here as well such as allowing others to find you, how can see your comment, react, messaage, or download your content.
 
 
-# ** How to Upload a Video From Your Gallery **
+# **How to Upload a Video From Your Gallery**
 
 Go to the '+' which is located in the moddle of the botton tool bar. Now a recording screen should pop up and you have two options. 
 1. Record your through TikTok 
