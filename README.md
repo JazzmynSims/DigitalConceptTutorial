@@ -56,6 +56,6 @@ If you dont want to delete but dont want anyone to see the video. You go to the 
 
 ---
 
-# **These Are Just A Few Basic Tips To Help You Navagate Yoour Way Around The App**
-## Download & Sign Up On TikTok Today For FREE! [TikTok](https://www.tiktok.com/en/)
+# **These Are Just A Few Basic Tips To Help You Navigate Your Way Around The App!**
+## Download & Sign Up On TikTok Today For FREE! ![TikTok](https://www.tiktok.com/en/)
 
