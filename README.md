@@ -13,7 +13,7 @@ TikTok is one of the most common apps worldwide at the moment. Images of people 
 If you're just watching or someone who plans on creating videos yourself, you'll need to know how to operate the TikTok app! This tutorial is beginner friendly, so if you want to become an expert user on TikTok follow along down below!
 
 
-# **How Sign Up**
+# **How Sign Up?**
 
 When you fist download the app it will take you to a page that says *'Sign up for TikTok?'.* TikTok gives you several options to go about this, you can sign up via Google, Instagram, Facebook login information, or simply just by using your cellphone number or email.
 
@@ -29,7 +29,7 @@ From your profile ('Me' in the bottom right corner), you'll click the three dots
 You can control other settings from here as well such as allowing others to find you, how can see your comment, react, messaage, or download your content.
 
 
-# **How to Upload a Video From Your Gallery**
+# **How to Upload a Video From Your Gallery?**
 
 Go to the '+' which is located in the moddle of the botton tool bar. Now a recording screen should pop up and you have two options. 
 1. Record your through TikTok 
@@ -44,7 +44,7 @@ When you open the app by default the 'Home' tab should pop up. Above this tab yo
 ![Following/For You Page](https://www.socialmediaexaminer.com/wp-content/uploads/2020/04/tiktok-for-you-page-350@2x.png)
 
 
-# **How to Delete Your Videos**
+# **How to Delete Your Videos?**
 
 Go to your profile and select the video you want to delete. There should be three dots on the right hand side of the screen to bring up a menu. If you go through the bottom selection options, delete should be an option. 
 
@@ -53,4 +53,9 @@ If you dont want to delete but dont want anyone to see the video. You go to the 
 - You can dowload any video whether its your video or someone elses you can download ann share if the user allows it (Which is in their settings). 
 
 ![How to Delete Video](https://i.insider.com/5dd83cc7fd9db23d55730c93?width=1100&format=jpeg&auto=webp)
+
+---
+
+# **These Are Just A Few Basic Tips To Help You Navagate Yoour Way Around The App**
+## Download & Sign Up On TikTok Today For FREE! [TikTok](https://www.tiktok.com/en/)
 
