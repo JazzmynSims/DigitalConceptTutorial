@@ -32,7 +32,7 @@ You can control other settings from here as well such as allowing others to find
 # **How to Upload a Video From Your Gallery?**
 
 Go to the '+' which is located in the moddle of the botton tool bar. Now a recording screen should pop up and you have two options. 
-1. Record your through TikTok 
+1. Record your video through TikTok 
 2. Select 'Upload' to upload a video in your gallery.
 
 - You can also add effects and set a timer at this time. 
@@ -57,5 +57,5 @@ If you dont want to delete but dont want anyone to see the video. You go to the 
 ---
 
 # **These Are Just A Few Basic Tips To Help You Navigate Your Way Around The App!**
-## Download & Sign Up On TikTok Today For FREE! ![TikTok](https://www.tiktok.com/en/)
+## Download & Sign Up On TikTok Today For FREE! [TikTok](https://www.tiktok.com/en/)
 
