@@ -15,7 +15,7 @@ If you're just watching or someone who plans on creating videos yourself, you'll
 
 # **How Sign Up?**
 
-When you fist download the app it will take you to a page that says *'Sign up for TikTok?'.* TikTok gives you several options to go about this, you can sign up via Google, Instagram, Facebook login information, or simply just by using your cellphone number or email.
+When you first download the app it will take you to a page that says *'Sign up for TikTok'.* TikTok gives you several options to go about this, you can sign up via Google, Instagram, Facebook login information, or simply just by using your cellphone number or email.
 
 ![Sign Up Here](http://www.snapfont.com/wp-content/uploads/2019/12/img_4153.jpg)
 
