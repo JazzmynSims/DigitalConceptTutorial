@@ -33,7 +33,7 @@ You can control other settings from here as well such as allowing others to find
 
 Go to the '+' which is located in the moddle of the botton tool bar. Now a recording screen should pop up and you have two options. 
 1. Record your video through TikTok 
-2. Select 'Upload' to upload a video in your gallery.
+2. Select 'Upload' to upload a video in your photo gallery.
 
 - You can also add effects and set a timer at this time. 
 
